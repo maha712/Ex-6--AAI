@@ -2,8 +2,11 @@
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
 
 Name : Mahalakshmi K
+
 Reg no : 212222240057
+
 EX. NO.6
+
 DATE:
 
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
